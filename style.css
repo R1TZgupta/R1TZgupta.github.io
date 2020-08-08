@@ -1,0 +1,35 @@
+body{
+
+}
+header{
+    text-align:center;
+    padding:10px;
+    font-size:25px;
+}
+#content{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+h3{
+    font-size:25px;
+    text-align: center;
+    text-decoration: underline;
+}
+#info{
+    width: 500px;
+    height: 500px;
+    overflow:auto;
+    margin:0 auto;
+    border:2px solid black;
+    margin-bottom:20px;
+}
+img{
+    margin-left:30%;
+    border:5px double;
+}
+#para{
+    padding:5px;
+}
+#music{
+    width:20%;
+}
